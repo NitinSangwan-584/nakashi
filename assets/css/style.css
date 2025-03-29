@@ -65,6 +65,16 @@
     margin-bottom: 100px;
 }
 
+.word {
+    top: 4%;
+    left: 0%;
+}
+
+.vertical-line {
+    top: 35%;
+    left: 5%;
+}
+
 .blue-layer {
     top: 25%;
     left: 25%;
